@@ -17,7 +17,7 @@
 - GraphQL [Apollo]
 - Static Site Generators: [GatsbyJS]
 
-#Back-End
+# Back-End
 - Terminal: [zsh, brew],
 - Languages: [Ruby, JavaScript],
 - Relational Databases: [PostgreSQL],
@@ -30,9 +30,38 @@
 - Search Engines: [Elasticsearch]
 - Design and Development Principles: [TDD, DRY]
 
+# Design
+
+## Web Design
+- Agile Methodology
+- User Experience
+- Wire-framing
+- Design systems
+- Functional mockups
+- Assets optimization
+- Mailing
+## Graphic Design
+- Campaign Design
+- Motion Design
+- Illustration
+- Branding, Advertising, Marketing
+- Creative collaboration
+- Photography
+- Video editing
+- Typography
+- Print
+## Design tools
+- Photoshop
+- Illustrator
+- InDesign
+- After Effect
+- Figma
+- Sketch
 
 
+----
 
+# CV 
 
 # Front-End
 - HTML, CSS, Javascript
@@ -46,7 +75,7 @@
 - DevTools, Performance metrics, Storage, Location, Web Sockets
 - GraphQL
 
-#Back-End
+# Back-End
 - Terminal CLI
 - Ruby, JavaScript
 - Object Relational Mapping
