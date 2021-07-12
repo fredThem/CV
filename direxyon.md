@@ -22,7 +22,9 @@ DIREXYON technologies est une entreprise d’envergure internationale spécialis
 - La solution DIREXYON permet de trouver les options physiquement et financièrement les plus rentables pour la gestion des actifs, des infrastructures et des clients des entreprises à court, moyen et long terme. 
 - La solution MODEX simplifie et accélère les processus d’affaires des clients comme, entre autres, la planification budgétaire, l’élaboration de plan stratégique, l’élaboration de cadre financiers, l’octroi de contrats et la production d’états financiers.
 
+
 ---- 
+
 
 #### Responsabilités :
 

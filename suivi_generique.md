@@ -36,7 +36,8 @@ I can't wait to meet Rhys
 Bonjour JB et Julien,
 
 Merci encore d'avoir pris le temps de discuter avec moi hier, ce fut un réel plaisir de vous rencontrer.
-J'ai vraiment apprécié notre conversation. Le rôle m’interpelle réellement, j’y vois la chance de mettre en application mes forces, de relever des défis qui me motivent en participant au développement de produits et solutions auquel je perçois une valeur tangible et pour une entreprise avec une mission et des valeurs auxquels je peux m’identifier.
-Je suis très enthousiaste à l'idée de me joindre à l'équipe et participer au succès d'Absolunet !
+J'ai vraiment apprécié notre conversation et lje veux souliger à quel point le rôle m’interpel. 
+Je vois la chance de mettre en application mes forces et de relever des défis qui me motivent. 
+Je m'identifie aux valeurs de l'entreprise, je suis très enthousiaste à l'idée de me joindre à l'équipe et participer au succès d'Absolunet !
 
 Bonne journée et merci encore !
